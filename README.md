@@ -17,20 +17,20 @@ List related to projects carried out during the first half of fourth year at the
 <a name="item2"></a>
  - **Minería de Datos (MIND)**
   
-   - [Prácticas](https://github.com/jhoncabanilla/Entrega-1)
+   - [Prácticas](https://github.com/jhoncabanilla/MIND)
    
 <a name="item3"></a>
  - **Planificación y Diseño de Sistemas Computacionales (PDSC)**
   
-   - [Prácticas](https://github.com/jhoncabanilla/Primera-Entrega)
+   - [Proyecto Final](https://github.com/jhoncabanilla/PDSC)
    
 <a name="item4"></a>
  - **Profesión y Sociedad (PyS)**
  
-   - [Prácticas](https://github.com/jhoncabanilla/Crecimiento-Poblacion)
+   - [Prácticas](https://github.com/jhoncabanilla/PYS)
    
    
 <a name="item5"></a>
  - **Sistemas de Información y Dirección de Organizaciones (SIDO)**
  
-   - [Prácticas](https://github.com/jhoncabanilla/Pr-ctica-OpenMP)
+   - [Entregas](https://github.com/jhoncabanilla/SIDO)
