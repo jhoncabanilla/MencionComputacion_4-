@@ -12,7 +12,7 @@ List related to projects carried out during the first half of fourth year at the
 <a name="item1"></a>
  - **Garantía y Seguridad de la Información (GSI)**
  
-   - [Prácticas](https://github.com/jhoncabanilla/Practica-ADBD)
+   - [Proyectos](https://github.com/jhoncabanilla/GSI)
 
 <a name="item2"></a>
  - **Minería de Datos (MIND)**
